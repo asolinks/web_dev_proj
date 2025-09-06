@@ -3,7 +3,7 @@
     font-weight: 700;
     font-style: normal;
     text-transform: uppercase;
-    font-size: 3rem;
+    font-size: 1rem;
     }
 
     body {
@@ -21,4 +21,9 @@
     .motivation_img {
         border: 5px solid white;
         width: 100%;
+    }
+
+    p {
+        color: red;
+        font-size: 4rem;
     }
